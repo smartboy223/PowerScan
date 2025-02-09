@@ -3,7 +3,7 @@ param (
     [string]$Keywords,
     [Parameter(Mandatory=$true)]
     [string]$OutputFile,
-    [int]$MaxResults = [int]::MaxValue,a
+    [int]$MaxResults = [int]::MaxValue,
     [string]$Include = "",
     [string]$Exclude = "",
     [string]$RootFolder = $PSScriptRoot
