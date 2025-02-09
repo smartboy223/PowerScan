@@ -1,0 +1,11 @@
+# Python dependencies
+flask       # Web server to handle frontend-backend communication
+requests    # For making HTTP requests (optional, if needed for API calls)
+pygments    # For syntax highlighting (optional)
+
+# If using Windows and PowerShell
+pywin32     # Windows-specific extensions (for running PowerShell commands)
+
+# Data processing and visualization
+pandas      # If you want to process and analyze results in Python
+json        # For handling JSON responses (built into Python, but listed for clarity)
