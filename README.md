@@ -12,8 +12,6 @@
 - **Advanced Filtering 🔍** – Include or exclude specific words to refine results.
 - **Multi-Format Export 📄** – Save results as TXT or CSV.
 - **Interactive Logs 📜** – View scan logs and track system events.
-- **Shutdown Button 🔴** – Easily stop the scan or shut down the system.
-
 ---
 
 ## Installation & Setup 🚀
@@ -90,7 +88,7 @@ PowerScan/
 ---
 
 ## Credits & Acknowledgment 🙌🎖️
-This project was developed with the help of **ChatGPT o3-mini-high**. 🤖💡 Special thanks to all contributors who helped improve PowerScan! 🚀💙
+This project was developed with the help of **ChatGPT o3-mini-high**. 🤖💡 Special thanks in advance to all contributors who helped improve PowerScan! 🚀💙
 
 ---
 
